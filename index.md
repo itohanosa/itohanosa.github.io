@@ -1,10 +1,23 @@
-# Itohan-Osa Abu
+<p align="center">
+<img src="images/profile.jpeg" width="220">
+</p>
 
-## Geospatial AI Scientist | Remote Sensing | GIS Automation | Climate Analytics
+<h1 align="center">Itohan-Osa Abu</h1>
 
-I build geospatial and Earth observation solutions using remote sensing, machine learning, Google Earth Engine, GIS, and cloud-based spatial analytics.
+<h2 align="center">
+Geospatial AI Scientist | Remote Sensing | GIS Automation | Climate Analytics
+</h2>
 
-My work focuses on disaster analytics, environmental monitoring, climate-risk assessment, population exposure analysis, and decision-support tools for real-world environmental challenges.
+<p align="center">
+I build geospatial and Earth observation solutions using remote sensing,
+machine learning, Google Earth Engine, GIS, and cloud-based spatial analytics.
+</p>
+
+<p align="center">
+My work focuses on disaster analytics, environmental monitoring,
+climate-risk assessment, population exposure analysis,
+and decision-support tools for real-world environmental challenges.
+</p>
 
 ---
 
@@ -72,9 +85,9 @@ I use Earth observation and geospatial analytics to answer practical environment
 
 - [GitHub](https://github.com/itohanosa)
 - [Geospatial AI Portfolio](https://github.com/itohanosa/geospatial-ai-portfolio)
-- LinkedIn: LinkedIn: https://www.linkedin.com/in/itohan-osa-abu-155032b1/
+- [LinkedIn](https://www.linkedin.com/in/itohan-osa-abu-155032b1/)
 - ORCID: 0000-0002-7450-0601
-- Google Scholar: https://scholar.google.com/citations?user=eHVvCCkAAAAJ&hl=en
+- [Google Scholar](https://scholar.google.com/citations?user=eHVvCCkAAAAJ&hl=en)
 
 ---
 
