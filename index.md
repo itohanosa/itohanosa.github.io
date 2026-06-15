@@ -1,6 +1,5 @@
-<p align="center">
-<img src="images/profile.jpeg" width="220">
-</p>
+<!-- <p align="center"> <img src="images/profile.jpeg" width="220">
+</p>-->
 
 <h1 align="center">Itohan-Osa Abu</h1>
 
