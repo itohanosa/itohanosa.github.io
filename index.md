@@ -1,7 +1,7 @@
 <!-- <p align="center"> <img src="images/profile.jpeg" width="220">
-</p>-->
+</p> <h1 align="center">Itohan-Osa Abu</h1> -->
 
-<h1 align="center">Itohan-Osa Abu</h1>
+
 
 <h2 align="center">
 Geospatial AI Scientist | Remote Sensing | GIS Automation | Climate Analytics
