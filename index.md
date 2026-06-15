@@ -35,11 +35,12 @@ Satellite-based assessment of the August 2023 Maui wildfires using Sentinel-2, G
 ---
 
 ### Baltimore Urban Heat Risk Assessment  
-**Coming Soon**
 
-Urban heat island and climate-risk analysis using Landsat land surface temperature, land-cover indicators, and environmental justice variables.
+Urban heat island and climate-risk analysis using Landsat land surface temperature, land-cover indicators, and environmental variables.
 
 **Skills:** Landsat · Urban Heat · Climate Risk · GIS · Environmental Justice
+
+[View Project](https://github.com/itohanosa/geospatial-ai-portfolio/tree/main/projects/baltimore-heat-index)
 
 ---
 
