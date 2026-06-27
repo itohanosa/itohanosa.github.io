@@ -47,7 +47,7 @@ Urban heat island and climate-risk analysis using Landsat land surface temperatu
 
 - [Live FloodWatch News Map](https://itohanosa.github.io/geospatial-ai-portfolio/projects/floodwatch-map/)
 - [Baltimore Heat Index Project](https://itohanosa.github.io/geospatial-ai-portfolio/projects/baltimore-heat-index/)
-- [Cocoa Plantations and Protected Areas](https://itohanosa.github.io/geospatial-ai-portfolio/projects/cocoa-plantations/)
+- [Cocoa Plantations and Protected Areas](https://itohanosa.github.io/geospatial-ai-portfolio/projects/cocoa-protected-areas/)
 
 ---
 
