@@ -43,12 +43,11 @@ Urban heat island and climate-risk analysis using Landsat land surface temperatu
 
 ---
 
-### Nigeria Flood Risk Mapping  
-**Coming Soon**
+## Other Projects
 
-Flood susceptibility and exposure mapping using Sentinel-1 SAR, rainfall data, land cover, and population datasets.
-
-**Skills:** Sentinel-1 · Flood Mapping · Disaster Risk · Google Earth Engine · Exposure Analysis
+- [Live FloodWatch News Map](https://itohanosa.github.io/geospatial-ai-portfolio/projects/floodwatch-map/)
+- [Baltimore Heat Index Project](https://itohanosa.github.io/geospatial-ai-portfolio/projects/baltimore-heat-index/)
+- [Cocoa Plantations and Protected Areas](https://itohanosa.github.io/geospatial-ai-portfolio/projects/cocoa-plantations/)
 
 ---
 
