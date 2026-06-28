@@ -252,7 +252,8 @@ layout: null
 
   <div class="project">
     <h3>
-      <a href="https://github.com/itohanosa/geospatial-ai-portfolio/tree/main/projects/niger%20delta%20gas%20flares" target="_blank">
+      <a href="https://abuitohanosa.users.earthengine.app/view/niger-delta-gas-flares"
+   target="_blank" rel="noopener noreferrer">
         Satellite Monitoring of Niger Delta Gas Flares
       </a>
     </h3>
@@ -267,7 +268,8 @@ layout: null
 
   <div class="project">
     <h3>
-      <a href="https://itohanosa.github.io/geospatial-ai-portfolio/projects/cocoa-protected-areas/" target="_blank">
+      <a href="https://abuitohanosa.users.earthengine.app/view/cocoa-plantations-and-their-implications-on-protected-areas"
+   target="_blank" rel="noopener noreferrer">
         Cocoa Expansion and Protected Areas
       </a>
     </h3>
