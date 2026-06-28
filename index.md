@@ -221,7 +221,7 @@ layout: null
 
   <div class="project">
     <h3>
-      <a href="https://github.com/itohanosa/geospatial-ai-portfolio/tree/main/projects/wildfire-insurance-risk-intelligence" target="_blank">
+      <a href="https://itohanosa.github.io/geospatial-ai-portfolio/projects/wildfire-insurance-risk-intelligence/" target="_blank" rel="noopener noreferrer">
         Wildfire Insurance Intelligence
       </a>
     </h3>
@@ -252,7 +252,7 @@ layout: null
 
   <div class="project">
     <h3>
-      <a href="https://abuitohanosa.users.earthengine.app/view/niger-delta-gas-flares"
+      <a href="https://itohanosa.github.io/geospatial-ai-portfolio/projects/niger-delta-gas-flares/"
    target="_blank" rel="noopener noreferrer">
         Satellite Monitoring of Niger Delta Gas Flares
       </a>
@@ -268,7 +268,7 @@ layout: null
 
   <div class="project">
     <h3>
-      <a href="https://abuitohanosa.users.earthengine.app/view/cocoa-plantations-and-their-implications-on-protected-areas"
+      <a href="https://itohanosa.github.io/geospatial-ai-portfolio/projects/cocoa-protected-areas/"
    target="_blank" rel="noopener noreferrer">
         Cocoa Expansion and Protected Areas
       </a>
@@ -299,7 +299,7 @@ layout: null
 
   <div class="project">
     <h3>
-      <a href="https://github.com/itohanosa/geospatial-ai-portfolio/tree/main/projects/floodclaims-intelligence" target="_blank">
+      <a href="https://itohanosa.github.io/geospatial-ai-portfolio/projects/floodclaims-intelligence/" target="_blank">
         Flood Claims Intelligence
       </a>
     </h3>
@@ -310,21 +310,6 @@ layout: null
     <span class="tag">Flood Claims</span>
     <span class="tag">Insurance</span>
     <span class="tag">Spatial Analytics</span>
-  </div>
-
-  <div class="project">
-    <h3>
-      <a href="https://github.com/itohanosa/geospatial-ai-portfolio/tree/main/projects/georisk-os" target="_blank">
-        GeoRisk OS
-      </a>
-    </h3>
-    <p>
-      A geospatial operating-system concept for environmental intelligence, hazard monitoring,
-      and AI-assisted decision support.
-    </p>
-    <span class="tag">Geospatial AI</span>
-    <span class="tag">Decision Support</span>
-    <span class="tag">Risk Intelligence</span>
   </div>
 </section>
 
