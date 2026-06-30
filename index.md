@@ -368,6 +368,35 @@
 
 <body>
 
+  <script>
+    // Safety cleanup: removes accidental visible copy-paste artifacts such as &lt;!DOCTYPE html&gt; or markdown fences.
+    (function () {
+      function cleanCopyPasteArtifacts() {
+        var nodes = Array.prototype.slice.call(document.body.childNodes);
+        nodes.forEach(function (node) {
+          if (node.nodeType === Node.TEXT_NODE) {
+            var text = node.textContent.trim();
+            if (
+              text === '<!DOCTYPE html>' ||
+              text === '```html' ||
+              text === '```' ||
+              text.indexOf('<!DOCTYPE html>') === 0
+            ) {
+              node.remove();
+            }
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', cleanCopyPasteArtifacts);
+      } else {
+        cleanCopyPasteArtifacts();
+      }
+    })();
+  </script>
+
+
   <header>
     <div class="logo">Itohan-Osa Abu</div>
     <nav>
@@ -502,7 +531,7 @@
         <div class="metric"><strong>26+</strong><p>Research outputs listed on ResearchGate.</p></div>
         <div class="metric"><strong>7+</strong><p>Years of remote sensing, GIS, and environmental analytics experience.</p></div>
         <div class="metric"><strong>3+</strong><p>Continents represented across projects and research activities.</p></div>
-        <div class="metric"><strong>Multiple Stakeholder audiences</strong><p> researchers, planners, insurers, and environmental organizations.</p></div>
+        <div class="metric"><strong>Multiple</strong><p>Stakeholder audiences: researchers, planners, insurers, and environmental organizations.</p></div>
       </div>
     </section>
 
@@ -541,7 +570,7 @@
         <div class="card">
           <h3>Detecting cocoa plantations in Côte d’Ivoire and Ghana and their implications on protected areas.</h3>
           <p>Ecological Indicators, 2021.</p>
-          <span class="tag">Remote Sensing</span><span class="tag">Machine Learning</span>
+          <span class="tag">Remote Sensing</span><span class="tag">Land Use Change</span>
         </div>
         <div class="card">
           <h3>Environmental contamination of a biodiversity hotspot—Action needed for nature conservation in the Niger Delta, Nigeria.</h3>
