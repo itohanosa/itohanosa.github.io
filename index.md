@@ -9,11 +9,21 @@
   <meta name="description" content="Itohan-Osa Abu is a Geospatial AI Scientist building trustworthy AI systems for Earth observation, climate risk, disaster analytics, environmental monitoring, insurance intelligence, and decision support." />
   <meta name="keywords" content="Itohan-Osa Abu, Geospatial AI, Remote Sensing, GIS Automation, Google Earth Engine, Climate Risk Analytics, Environmental Monitoring, Disaster Analytics, Spatial Machine Learning, Satellite Data, Earth Observation AI" />
   <meta name="author" content="Itohan-Osa Abu" />
+  <meta name="robots" content="index, follow" />
+
+  <link rel="canonical" href="https://itohanosa.github.io/" />
 
   <meta property="og:title" content="Itohan-Osa Abu | Geospatial AI Scientist" />
   <meta property="og:description" content="Geospatial AI, Earth observation, remote sensing, climate-risk analytics, disaster mapping, environmental monitoring, insurance intelligence, and decision-support systems." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://itohanosa.github.io/" />
+  <meta property="og:site_name" content="Itohan-Osa Abu Portfolio" />
+  <meta property="og:image" content="https://itohanosa.github.io/preview.png" />
+
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Itohan-Osa Abu | Geospatial AI Scientist" />
+  <meta name="twitter:description" content="Geospatial AI, Earth observation, remote sensing, climate-risk analytics, disaster mapping, environmental monitoring, insurance intelligence, and decision-support systems." />
+  <meta name="twitter:image" content="https://itohanosa.github.io/preview.png" />
 
   <style>
     * { box-sizing: border-box; }
@@ -369,7 +379,6 @@
 <body>
 
   <script>
-    // Safety cleanup: removes accidental visible copy-paste artifacts such as &lt;!DOCTYPE html&gt; or markdown fences.
     (function () {
       function cleanCopyPasteArtifacts() {
         var nodes = Array.prototype.slice.call(document.body.childNodes);
@@ -395,7 +404,6 @@
       }
     })();
   </script>
-
 
   <header>
     <div class="logo">Itohan-Osa Abu</div>
@@ -435,6 +443,7 @@
           <p>Satellite analytics, climate-risk workflows, decision dashboards, and risk intelligence products.</p>
         </div>
       </div>
+
       <div class="signal-card">
         <div class="icon-circle">4M+</div>
         <div>
@@ -442,6 +451,7 @@
           <p>Millions of hectares analyzed across West African landscapes using satellite-derived evidence.</p>
         </div>
       </div>
+
       <div class="signal-card">
         <div class="icon-circle">26+</div>
         <div>
@@ -480,45 +490,82 @@
 
       <div class="grid">
         <div class="card project-card">
-          <h3 class="project-title"><a href="https://itohanosa.github.io/geospatial-ai-portfolio/projects/wildfire-insurance-risk-intelligence/" target="_blank" rel="noopener noreferrer">Wildfire Insurance Intelligence</a></h3>
+          <h3 class="project-title">
+            <a href="https://itohanosa.github.io/geospatial-ai-portfolio/projects/wildfire-insurance-risk-intelligence/" target="_blank" rel="noopener noreferrer">
+              Wildfire Insurance Intelligence
+            </a>
+          </h3>
           <p>A geospatial risk intelligence project for wildfire exposure screening, insurance analytics, catastrophe monitoring, portfolio exposure analysis, and climate-risk decision support.</p>
-          <span class="tag">Wildfire Risk</span><span class="tag">Insurance Analytics</span><span class="tag">Satellite Data</span><span class="tag">Streamlit</span><br />
+          <span class="tag">Wildfire Risk</span>
+          <span class="tag">Insurance Analytics</span>
+          <span class="tag">Satellite Data</span>
+          <span class="tag">Streamlit</span><br />
           <a class="button primary" href="https://geospatial-ai-portfolio-3o5dmze6m2y4bc4ktk4zep.streamlit.app" target="_blank" rel="noopener noreferrer">Live Demo</a>
           <a class="button" href="https://itohanosa.github.io/geospatial-ai-portfolio/projects/wildfire-insurance-risk-intelligence/" target="_blank" rel="noopener noreferrer">Case Study</a>
         </div>
 
         <div class="card project-card">
-          <h3 class="project-title"><a href="https://itohanosa.github.io/geospatial-ai-portfolio/projects/floodwatch-map/" target="_blank" rel="noopener noreferrer">FloodWatch — Real-Time Flood Intelligence</a></h3>
+          <h3 class="project-title">
+            <a href="https://itohanosa.github.io/geospatial-ai-portfolio/projects/floodwatch-map/" target="_blank" rel="noopener noreferrer">
+              FloodWatch — Real-Time Flood Intelligence
+            </a>
+          </h3>
           <p>A public-facing geospatial news and flood-awareness map for tracking flood-related information and supporting location-based disaster communication.</p>
-          <span class="tag">Flood Risk</span><span class="tag">Interactive Map</span><span class="tag">Disaster Communication</span><br />
+          <span class="tag">Flood Risk</span>
+          <span class="tag">Interactive Map</span>
+          <span class="tag">Disaster Communication</span><br />
           <a class="button primary" href="https://itohanosa.github.io/geospatial-ai-portfolio/projects/floodwatch-map/" target="_blank" rel="noopener noreferrer">Open Project</a>
         </div>
 
         <div class="card project-card">
-          <h3 class="project-title"><a href="https://itohanosa.github.io/geospatial-ai-portfolio/projects/niger-delta-gas-flares/" target="_blank" rel="noopener noreferrer">Satellite Monitoring of Niger Delta Gas Flares</a></h3>
+          <h3 class="project-title">
+            <a href="https://itohanosa.github.io/geospatial-ai-portfolio/projects/niger-delta-gas-flares/" target="_blank" rel="noopener noreferrer">
+              Satellite Monitoring of Niger Delta Gas Flares
+            </a>
+          </h3>
           <p>Remote sensing project for monitoring gas flaring, environmental pressure, and pollution-related spatial patterns in the Niger Delta.</p>
-          <span class="tag">Gas Flaring</span><span class="tag">Environmental Monitoring</span><span class="tag">Remote Sensing</span><br />
+          <span class="tag">Gas Flaring</span>
+          <span class="tag">Environmental Monitoring</span>
+          <span class="tag">Remote Sensing</span><br />
           <a class="button primary" href="https://itohanosa.github.io/geospatial-ai-portfolio/projects/niger-delta-gas-flares/" target="_blank" rel="noopener noreferrer">Read Case Study</a>
         </div>
 
         <div class="card project-card">
-          <h3 class="project-title"><a href="https://itohanosa.github.io/geospatial-ai-portfolio/projects/cocoa-protected-areas/" target="_blank" rel="noopener noreferrer">Cocoa Expansion and Protected Areas</a></h3>
+          <h3 class="project-title">
+            <a href="https://itohanosa.github.io/geospatial-ai-portfolio/projects/cocoa-protected-areas/" target="_blank" rel="noopener noreferrer">
+              Cocoa Expansion and Protected Areas
+            </a>
+          </h3>
           <p>Earth observation project examining cocoa plantation expansion and its implications for protected landscapes and conservation planning in West Africa.</p>
-          <span class="tag">Land Cover</span><span class="tag">Protected Areas</span><span class="tag">Conservation</span><br />
+          <span class="tag">Land Cover</span>
+          <span class="tag">Protected Areas</span>
+          <span class="tag">Conservation</span><br />
           <a class="button primary" href="https://itohanosa.github.io/geospatial-ai-portfolio/projects/cocoa-protected-areas/" target="_blank" rel="noopener noreferrer">Read Case Study</a>
         </div>
 
         <div class="card project-card">
-          <h3 class="project-title"><a href="https://itohanosa.github.io/geospatial-ai-portfolio/projects/baltimore-heat-index/" target="_blank" rel="noopener noreferrer">Urban Heat Intelligence</a></h3>
+          <h3 class="project-title">
+            <a href="https://itohanosa.github.io/geospatial-ai-portfolio/projects/baltimore-heat-index/" target="_blank" rel="noopener noreferrer">
+              Urban Heat Intelligence
+            </a>
+          </h3>
           <p>Urban heat and climate-risk analysis using land surface temperature, land cover, vegetation, census variables, and environmental indicators.</p>
-          <span class="tag">Urban Heat</span><span class="tag">Climate Risk</span><span class="tag">Google Earth Engine</span><br />
+          <span class="tag">Urban Heat</span>
+          <span class="tag">Climate Risk</span>
+          <span class="tag">Google Earth Engine</span><br />
           <a class="button primary" href="https://itohanosa.github.io/geospatial-ai-portfolio/projects/baltimore-heat-index/" target="_blank" rel="noopener noreferrer">Read Case Study</a>
         </div>
 
         <div class="card project-card">
-          <h3 class="project-title"><a href="https://itohanosa.github.io/geospatial-ai-portfolio/projects/floodclaims-intelligence/" target="_blank" rel="noopener noreferrer">Flood Claims Intelligence</a></h3>
+          <h3 class="project-title">
+            <a href="https://itohanosa.github.io/geospatial-ai-portfolio/projects/floodclaims-intelligence/" target="_blank" rel="noopener noreferrer">
+              Flood Claims Intelligence
+            </a>
+          </h3>
           <p>Spatial insurance analytics project for understanding flood claims, exposure, and risk patterns.</p>
-          <span class="tag">Flood Claims</span><span class="tag">Insurance</span><span class="tag">Spatial Analytics</span><br />
+          <span class="tag">Flood Claims</span>
+          <span class="tag">Insurance</span>
+          <span class="tag">Spatial Analytics</span><br />
           <a class="button primary" href="https://itohanosa.github.io/geospatial-ai-portfolio/projects/floodclaims-intelligence/" target="_blank" rel="noopener noreferrer">Open Project</a>
         </div>
       </div>
@@ -527,23 +574,62 @@
     <section id="impact">
       <h2>Impact at a Glance</h2>
       <div class="metric-row">
-        <div class="metric"><strong>4M+</strong><p>Hectares of cocoa landscapes mapped in West Africa.</p></div>
-        <div class="metric"><strong>26+</strong><p>Research outputs listed on ResearchGate.</p></div>
-        <div class="metric"><strong>7+</strong><p>Years of remote sensing, GIS, and environmental analytics experience.</p></div>
-        <div class="metric"><strong>3+</strong><p>Continents represented across projects and research activities.</p></div>
-        <div class="metric"><strong>Multiple Stakeholder audiences</strong><p> researchers, planners, insurers, and environmental organizations.</p></div>
+        <div class="metric">
+          <strong>4M+</strong>
+          <p>Hectares of cocoa landscapes mapped in West Africa.</p>
+        </div>
+        <div class="metric">
+          <strong>26+</strong>
+          <p>Research outputs listed on ResearchGate.</p>
+        </div>
+        <div class="metric">
+          <strong>7+</strong>
+          <p>Years of remote sensing, GIS, and environmental analytics experience.</p>
+        </div>
+        <div class="metric">
+          <strong>3+</strong>
+          <p>Continents represented across projects and research activities.</p>
+        </div>
+        <div class="metric">
+          <strong>Multiple</strong>
+          <p>Stakeholder audiences including researchers, planners, insurers, and environmental organizations.</p>
+        </div>
       </div>
     </section>
 
     <section id="expertise">
       <h2>Technical Expertise</h2>
+
       <div class="grid">
-        <div class="card"><h3>AI and Machine Learning</h3><p>Machine learning, remote sensing classification, spatial modeling, explainable AI, and environmental prediction workflows.</p></div>
-        <div class="card"><h3>Earth Observation</h3><p>Sentinel, Landsat, MODIS, ESA WorldCover, WorldPop, CHIRPS, Google Earth Engine, and satellite-derived environmental indicators.</p></div>
-        <div class="card"><h3>Geospatial Analytics</h3><p>GIS analysis, spatial statistics, geospatial databases, mapping, dashboards, population exposure, and vulnerability assessment.</p></div>
-        <div class="card"><h3>Programming and Tools</h3><p>Python, R, JavaScript, Streamlit, GitHub Pages, ArcGIS Pro, QGIS, SNAP, ENVI, and reproducible workflows.</p></div>
-        <div class="card"><h3>Climate and Disaster Risk</h3><p>Flood, heat, wildfire, pollution, land-cover change, insurance intelligence, and decision-support products.</p></div>
-        <div class="card"><h3>Research Communication</h3><p>Peer-reviewed research, stakeholder maps, policy-facing summaries, technical documentation, and proposal-ready outputs.</p></div>
+        <div class="card">
+          <h3>AI and Machine Learning</h3>
+          <p>Machine learning, remote sensing classification, spatial modeling, explainable AI, and environmental prediction workflows.</p>
+        </div>
+
+        <div class="card">
+          <h3>Earth Observation</h3>
+          <p>Sentinel, Landsat, MODIS, ESA WorldCover, WorldPop, CHIRPS, Google Earth Engine, and satellite-derived environmental indicators.</p>
+        </div>
+
+        <div class="card">
+          <h3>Geospatial Analytics</h3>
+          <p>GIS analysis, spatial statistics, geospatial databases, mapping, dashboards, population exposure, and vulnerability assessment.</p>
+        </div>
+
+        <div class="card">
+          <h3>Programming and Tools</h3>
+          <p>Python, R, JavaScript, Streamlit, GitHub Pages, ArcGIS Pro, QGIS, SNAP, ENVI, and reproducible workflows.</p>
+        </div>
+
+        <div class="card">
+          <h3>Climate and Disaster Risk</h3>
+          <p>Flood, heat, wildfire, pollution, land-cover change, insurance intelligence, and decision-support products.</p>
+        </div>
+
+        <div class="card">
+          <h3>Research Communication</h3>
+          <p>Peer-reviewed research, stakeholder maps, policy-facing summaries, technical documentation, and proposal-ready outputs.</p>
+        </div>
       </div>
     </section>
 
@@ -553,6 +639,7 @@
           <h2>Global Projects and Research Impact</h2>
           <p>I work on real-world problems across Africa, Europe, and North America, with projects connected to climate risk, conservation, pollution monitoring, agriculture, and environmental decision support.</p>
         </div>
+
         <div class="location-list">
           <div class="location-pill">Nigeria</div>
           <div class="location-pill">Ghana</div>
@@ -566,19 +653,25 @@
 
     <section id="publications">
       <h2>Selected Publications and Research</h2>
+
       <div class="two-grid">
         <div class="card">
           <h3>Detecting cocoa plantations in Côte d’Ivoire and Ghana and their implications on protected areas.</h3>
           <p>Ecological Indicators, 2021.</p>
-          <span class="tag">Remote Sensing</span><span class="tag">Machine Learning</span>
+          <span class="tag">Remote Sensing</span>
+          <span class="tag">Machine Learning</span>
         </div>
+
         <div class="card">
           <h3>Environmental contamination of a biodiversity hotspot—Action needed for nature conservation in the Niger Delta, Nigeria.</h3>
           <p>Sustainability, 2022.</p>
-          <span class="tag">Environmental Monitoring</span><span class="tag">Pollution</span>
+          <span class="tag">Environmental Monitoring</span>
+          <span class="tag">Pollution</span>
         </div>
       </div>
+
       <p class="small-note">Additional publications and research outputs are available through Google Scholar, ResearchGate, and ORCID.</p>
+
       <a class="button primary" href="https://scholar.google.com/citations?user=eHVvCCkAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>
       <a class="button" href="https://www.researchgate.net/profile/Itohan-Osa-Abu/research" target="_blank" rel="noopener noreferrer">ResearchGate</a>
     </section>
@@ -586,13 +679,20 @@
     <section id="contact">
       <div class="card contact-card">
         <h2>Let’s build AI systems for a resilient planet.</h2>
-        <p class="section-lead">I am open to collaborations and opportunities in geospatial AI, climate intelligence, Earth observation, environmental monitoring, insurance analytics, and research partnerships that create measurable impact.</p>
+
+        <p class="section-lead">
+          I am open to collaborations and opportunities in geospatial AI, climate intelligence,
+          Earth observation, environmental monitoring, insurance analytics, and research partnerships
+          that create measurable impact.
+        </p>
+
         <a class="button primary" href="mailto:abuitohanosa@gmail.com">Email Me</a>
         <a class="button" href="https://www.linkedin.com/in/itohan-osa-abu-155032b1/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
         <a class="button" href="https://github.com/itohanosa" target="_blank" rel="noopener noreferrer">GitHub</a>
         <a class="button" href="https://github.com/itohanosa/geospatial-ai-portfolio" target="_blank" rel="noopener noreferrer">Portfolio Repository</a>
         <a class="button" href="https://www.researchgate.net/profile/Itohan-Osa-Abu/research" target="_blank" rel="noopener noreferrer">ResearchGate</a>
         <a class="button" href="https://scholar.google.com/citations?user=eHVvCCkAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>
+
         <p class="small-note">ORCID: 0000-0002-7450-0601</p>
       </div>
     </section>
