@@ -1,0 +1,17 @@
+{
+  "name": "Itohan-Osa Abu | Geospatial AI Scientist",
+  "short_name": "Itohan-Osa Abu",
+  "description": "Geospatial AI, Earth observation, climate-risk analytics, remote sensing, disaster mapping, and environmental intelligence portfolio.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0b63ce",
+  "icons": [
+    {
+      "src": "/preview.png",
+      "sizes": "1200x630",
+      "type": "image/png"
+    }
+  ]
+}
