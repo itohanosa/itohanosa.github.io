@@ -1,4 +1,9 @@
-title: ""
-description: ""
-theme:
-markdown: kramdown
+title: Itohan-Osa Abu
+
+theme: null
+
+plugins: []
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
